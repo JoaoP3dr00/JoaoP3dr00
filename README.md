@@ -8,3 +8,5 @@
 - ⚡ Fun fact: ...
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoP3dr00&layout=compact&langs_count=8&hide=powershell,batchfile&theme=gradient)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoP3dr00)](https://github.com/JoaoP3dr00/github-readme-stats&description_lines_count)
