@@ -7,6 +7,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoP3dr00)](https://github.com/JoaoP3dr00/github-readme-stats)
