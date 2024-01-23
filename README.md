@@ -1,4 +1,5 @@
-- 🔭 I'm currently studying Software Engineering at UFMS.
+- 🌱 I'm currently studying Software Engineering at UFMS. 🔭
+
 
 ##
 
