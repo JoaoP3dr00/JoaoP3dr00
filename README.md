@@ -27,3 +27,7 @@
 ##
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoP3dr00&layout=compact&langs_count=8&hide=powershell,batchfile&theme=radical)
+
+##
+
+![Snake animation](https://github.com/JoaoP3dr00/JoaoP3dr00/blob/output/github-contribution-grid-snake.svg)
