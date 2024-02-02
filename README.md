@@ -27,10 +27,6 @@
    <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank](https://wa.me/)"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div>
-  <img src="![giphy](https://github.com/JoaoP3dr00/JoaoP3dr00/assets/133379086/465ef986-0e1a-4c7c-b9fc-ded914d2524a)" target="_blank">
-</div>
-
 ##
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoP3dr00&layout=compact&langs_count=8&hide=powershell,batchfile,javascript&theme=radical)
