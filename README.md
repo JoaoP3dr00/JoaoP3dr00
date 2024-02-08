@@ -1,6 +1,7 @@
+![](assets/Bottom_up.svg)
+
 - 🌱 I'm currently studying Software Engineering at UFMS. 🔭
 
-![](assets/Bottom_up.svg)
 ##
 
 <div>
