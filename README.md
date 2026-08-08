@@ -12,8 +12,8 @@
 
 ##
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JoaoP3dr00&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoP3dr00&layout=compact&langs_count=8&show=elixir&&hide=powershell,javascript,C,batchfile,CSS,Python&theme=radical)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JoaoP3dr00)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=JoaoP3dr00&layout=compact&langs_count=8&show=elixir&&hide=powershell,javascript,C,batchfile,CSS,Python&theme=radical)
 
 ##
 <!--
